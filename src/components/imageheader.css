@@ -1,0 +1,19 @@
+.imagemenu li{
+    display: inline;
+    margin: 1%;
+}
+
+.imagemenu{
+    margin-left: 4%;
+}
+
+.imagelistlabel{
+    font-size: 20px;
+    color: #2d2525;
+    margin-left: 8%;
+}
+
+.imagebox{
+    width: 100%;
+    margin: auto auto;
+}

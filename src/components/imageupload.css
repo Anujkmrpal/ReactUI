@@ -1,0 +1,19 @@
+.submitButton{
+padding: 8px 15px;
+border-radius: 3px;
+background-color: aliceblue;
+border: 1px solid gray;
+}
+
+.imageuploadbox{
+    /* text-align: left; */
+    width: 33%;
+}
+
+.imagemsg{
+    margin: 8% 0;
+}
+
+.submitbuttonCover{
+    margin: 4% 0;
+}

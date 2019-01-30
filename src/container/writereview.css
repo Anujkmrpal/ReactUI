@@ -1,0 +1,19 @@
+.left{
+float: left;
+width: 49%;
+}
+.writereviewstyle{
+    width: 90%;
+    margin: auto auto;
+}
+
+.right{
+    float: right;
+    width: 49%;
+    }
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
